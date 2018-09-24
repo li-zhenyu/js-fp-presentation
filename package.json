@@ -1,0 +1,31 @@
+{
+    "name": "js-fp-presentation",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/li-zhenyu/js-fp-presentation.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/li-zhenyu/js-fp-presentation/issues"
+    },
+    "homepage": "https://github.com/li-zhenyu/js-fp-presentation#readme",
+    "devDependencies": {
+        "@babel/core": "^7.1.0",
+        "@babel/preset-env": "^7.1.0",
+        "babel-core": "^7.0.0-bridge.0",
+        "babel-jest": "^23.6.0",
+        "jest": "^23.6.0",
+        "regenerator-runtime": "^0.12.1"
+    },
+    "dependencies": {
+        "ramda": "^0.25.0"
+    }
+}
