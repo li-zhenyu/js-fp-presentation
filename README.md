@@ -16,6 +16,7 @@ npm run test
 
 # 结构说明
 
+```
 src
 ├─app.js
 ├─fp.js fp 相关函数
@@ -23,3 +24,4 @@ src
 ├─tests 测试目录
 | ├─app.test.js
 | └fp.test.js
+```
